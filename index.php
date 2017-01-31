@@ -1,5 +1,3 @@
-Aaron's test file
-<!DOCTYPE html>
 <html>
  <head>
   <title>Index</title>
@@ -8,3 +6,4 @@ Aaron's test file
   <h2>GitHub test file</h2>
  </body>
 </html>
+
